@@ -1,3 +1,5 @@
+**ARCHIVED: rebased onto https://github.com/samestep/env**
+
 # NixOS config
 
 From a fresh [NixOS installation](https://nixos.org/download/), run these commands to clone this repo:
